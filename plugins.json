@@ -39,7 +39,7 @@
         ],
         "version": 2,
         "internalName": "MyCimaProvider",
-        "url": "http://192.168.1.101:8080/MyCimaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
     },
 {
@@ -60,7 +60,7 @@
         ],
         "version": 2,
         "internalName": "WitAnime",
-        "url": "http://192.168.1.101:8080/WitAnime.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/WitAnime.cs3",
         "name": "WitAnime"
     },
 {
@@ -81,7 +81,7 @@
         ],
         "version": 2,
         "internalName": "Topcinema",
-        "url": "http://192.168.1.101:8080/Topcinema.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Topcinema.cs3",
         "name": "Topcinema"
     }
 ]
