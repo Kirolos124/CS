@@ -3,6 +3,6 @@
     "description": "koko",
     "manifestVersion": 1,
     "pluginLists": [
-      "hhttps://github.com/Kirolos124/CS/raw/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/plugins.json"
     ]
   }
