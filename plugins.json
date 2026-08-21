@@ -1,0 +1,87 @@
+[
+   
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 16057,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "UltimaBeta",
+        "url": "http://192.168.1.101:8080/UltimaBeta.cs3",
+        "name": "UltimaBeta"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 16057,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "MyCimaProvider",
+        "url": "http://192.168.1.101:8080/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=witanime.life&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 16057,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "WitAnime",
+        "url": "http://192.168.1.101:8080/WitAnime.cs3",
+        "name": "WitAnime"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=topcinemaa.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 16057,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "Topcinema",
+        "url": "http://192.168.1.101:8080/Topcinema.cs3",
+        "name": "Topcinema"
+    }
+]
