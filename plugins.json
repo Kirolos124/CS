@@ -436,4 +436,101 @@
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Faselhd.cs3",
         "name": "FaselHD"
     }
+,
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=krmzi.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 30283,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Krmzy",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Krmzy.cs3",
+        "name": "Krmzy"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lodynet.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 28163,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Lodynet",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Lodynet.cs3",
+        "name": "Lodynet"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.oha.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 20815,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Ohatv",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Ohatv.cs3",
+        "name": "Oha TV"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fullmatchshows.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 28500,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Replaymatch",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Replaymatch.cs3",
+        "name": "ReplayMatch"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.syrlive.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 16789,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Syria-live",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Syria-live.cs3",
+        "name": "Syria Live"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tuktukhd.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 24301,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "TukTukcima",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/TukTukcima.cs3",
+        "name": "TukTuk Cima"
+    }
 ]
