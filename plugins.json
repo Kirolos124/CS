@@ -83,5 +83,43 @@
         "internalName": "Topcinema",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Topcinema.cs3",
         "name": "Topcinema"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=egydead.beer&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 49526,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Egydead",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Egydead.cs3",
+        "name": "EgyDead"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shaahed4u.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 28615,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Shahid4u",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Shahid4u.cs3",
+        "name": "Shahid4u"
     }
 ]
