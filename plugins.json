@@ -4,7 +4,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 533083,
+        "fileSize": 533085,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -104,10 +104,10 @@
         "name": "EgyDead"
     },
 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=shaahed4u.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sshahid4u.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 28615,
+        "fileSize": 28607,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -117,7 +117,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Shahid4u",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Shahid4u.cs3",
         "name": "Shahid4u"
