@@ -1,4 +1,4 @@
-[
+﻿[
    
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
@@ -241,5 +241,102 @@
         "internalName": "Animerco",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animerco.cs3",
         "name": "Animerco"
+    }
+,
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animewitcher.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 33481,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Animewitcher",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animewitcher.cs3",
+        "name": "Animewitcher"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asd.pics&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 43764,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Arabseed",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Arabseed.cs3",
+        "name": "Arabseed"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=amd.brstej.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 26326,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Bristege",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Bristege.cs3",
+        "name": "Bristege"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cee.buzz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 43754,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Cee",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Cee.cs3",
+        "name": "Cee"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ciimaclub.club&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 17298,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "CimaClub",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/CimaClub.cs3",
+        "name": "CimaClub"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=r.cimalight.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 25289,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Cimalight",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Cimalight.cs3",
+        "name": "Cimalight"
     }
 ]
