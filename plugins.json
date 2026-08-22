@@ -339,4 +339,101 @@
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Cimalight.cs3",
         "name": "Cimalight"
     }
+,
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.cimatn.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 27974,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Cimatn",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Cimatn.cs3",
+        "name": "CimaTn"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimawbas.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 13627,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Cimawbas",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Cimawbas.cs3",
+        "name": "Cimawbas"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinemana.shabakaty.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 47505,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "cinemana",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/cinemana.cs3",
+        "name": "Cinemana"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dima-toon.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 11920,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "dima-toon",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/dima-toon.cs3",
+        "name": "Dima Toon"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=qeseh.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 36831,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "eseek",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/eseek.cs3",
+        "name": "Eseek"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=web31312x.faselhdx.bid&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 55050,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
+        "version": 1,
+        "internalName": "Faselhd",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Faselhd.cs3",
+        "name": "FaselHD"
+    }
 ]
