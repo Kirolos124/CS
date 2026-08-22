@@ -22,14 +22,14 @@
         "name": "UltimaBeta"
     },
 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.boo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 16080,
+        "fileSize": 47086,
         "status": 1,
         "language": "ar",
         "authors": [
-            "Blatzar"
+            "Kirolos"
         ],
         "tvTypes": [
             "TvSeries",
@@ -37,7 +37,7 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "MyCimaProvider",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
