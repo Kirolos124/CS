@@ -121,5 +121,125 @@
         "internalName": "Shahid4u",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Shahid4u.cs3",
         "name": "Shahid4u"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3esk.onl&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 29021,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "3isk",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/3isk.cs3",
+        "name": "3isk"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ak.sv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 28243,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Akwam",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Akwam.cs3",
+        "name": "Akwam"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime3rb.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 46844,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Anim3rb",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Anim3rb.cs3",
+        "name": "Anim3rb"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=w1.anime4up.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 24079,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Anime4up",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Anime4up.cs3",
+        "name": "Anime4Up"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 20749,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Animeiat",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animeiat.cs3",
+        "name": "Animeiat"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gat.animerco.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kirolos124/CS",
+        "fileSize": 88287,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Kirolos"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Animerco",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animerco.cs3",
+        "name": "Animerco"
     }
 ]
