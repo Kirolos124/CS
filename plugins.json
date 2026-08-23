@@ -260,17 +260,17 @@
         "name": "Animewitcher"
     },
 {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asd.pics&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.wine&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 43764,
+        "fileSize": 43779,
         "status": 1,
         "language": "ar",
         "authors": [
             "Kirolos"
         ],
         "tvTypes": ["Movie", "TvSeries", "Anime"],
-        "version": 1,
+        "version": 2,
         "internalName": "Arabseed",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Arabseed.cs3",
         "name": "Arabseed"
