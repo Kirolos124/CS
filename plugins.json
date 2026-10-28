@@ -254,7 +254,7 @@
             "Kirolos"
         ],
         "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie"],
-        "version": 4,
+        "version": 5,
         "internalName": "Animewitcher",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animewitcher.cs3",
         "name": "Animewitcher"
