@@ -1,10 +1,10 @@
-﻿[
+[
    
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 917988,
+        "fileSize": 937592,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -16,7 +16,7 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "UltimaBeta",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta.cs3",
         "name": "UltimaBeta"
