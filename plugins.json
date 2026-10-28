@@ -247,14 +247,14 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animewitcher.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 39803,
+        "fileSize": 40644,
         "status": 1,
         "language": "ar",
         "authors": [
             "Kirolos"
         ],
         "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie"],
-        "version": 5,
+        "version": 6,
         "internalName": "Animewitcher",
         "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animewitcher.cs3",
         "name": "Animewitcher"
