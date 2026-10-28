@@ -4,7 +4,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 937592,
+        "fileSize": 943456,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -16,9 +16,9 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "UltimaBeta",
-        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta-17.cs3",
         "name": "UltimaBeta"
     },
 {
@@ -247,16 +247,16 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animewitcher.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 40644,
+        "fileSize": 40637,
         "status": 1,
         "language": "ar",
         "authors": [
             "Kirolos"
         ],
         "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie"],
-        "version": 6,
+        "version": 7,
         "internalName": "Animewitcher",
-        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animewitcher-6.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/Animewitcher-7.cs3",
         "name": "Animewitcher"
     },
 {
