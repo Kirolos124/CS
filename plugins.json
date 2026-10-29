@@ -4,7 +4,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 946481,
+        "fileSize": 946482, "fileHash": "sha256-af88059f315858e944bbf7eaeaef3b4d2332fa383e3de77587cde5fa0c8dcd53",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -16,16 +16,16 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "UltimaBeta",
-        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta-19.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta-20.cs3",
         "name": "UltimaBeta"
     },
 {
         "iconUrl": "https://www.google.com/s2/favicons?domain=mycima.boo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 47086,
+        "fileSize": 47086, "fileHash": "sha256-eb00f5027100f4255ca060b61682735d7ca579a7d93d05cfc9dd04bc02770a7b",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -46,7 +46,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=witanime.net/&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 47861,
+        "fileSize": 47861, "fileHash": "sha256-5b3ed373f77792e8f61aa939fb9b2b487dd8e7df7cf4b5238b303cea9e56d417",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -67,7 +67,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=topcinemaa.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 36209,
+        "fileSize": 36209, "fileHash": "sha256-cdb030612754d50be0f0d48d57054424be69f12e76b2a6dca9afcdf811855220",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -88,7 +88,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=egydead.beer&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 49526,
+        "fileSize": 49526, "fileHash": "sha256-5b00405cdccbc176b18e6a0a5daa12dfc7f5370fab7fcd2e6dc499e8078e8916",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -107,7 +107,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sshahid4u.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 28607,
+        "fileSize": 28607, "fileHash": "sha256-2d8951fd6c9bfa57d92eb5fc3592dba38b6131a58d51e485e4e96cd3e1959684",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -126,7 +126,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=3esk.onl&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 29021,
+        "fileSize": 29021, "fileHash": "sha256-1d2a3b66c35f205e4dc7c6788a62b8cce91b3c71d52dd4f852a88c8f47c499de",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -146,7 +146,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ak.sv&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 28243,
+        "fileSize": 28243, "fileHash": "sha256-b9fb83b23cd7afbb31c2ae37e161a5834c95a7a322449bdf52863d627a9c4935",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -166,7 +166,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=anime3rb.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 47227,
+        "fileSize": 47227, "fileHash": "sha256-41bb0cb7465dfb535bd1e001c186c0f08a402659f8ddf301ab549d78fd80e7da",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -186,7 +186,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=w1.anime4up.rest&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 24079,
+        "fileSize": 24079, "fileHash": "sha256-9489c0b57671d88071862caf70d1b096b212c3701929efe03a961d3d75ddd9bb",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -206,7 +206,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 20749,
+        "fileSize": 20749, "fileHash": "sha256-ebbaf75a870d3342a2de691e10a3beaca88dfd7fae8dbfcc531dcbe1b2e336b1",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -226,7 +226,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=gat.animerco.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 88287,
+        "fileSize": 88287, "fileHash": "sha256-3d541c2f095434f2aff1772a566e5329889ab4c07615833117b54a4be1028a9b",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -247,7 +247,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animewitcher.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 40637,
+        "fileSize": 40637, "fileHash": "sha256-b7863f3c4d46011aae0181fe070b0cc86e12b8764296d969b74addfdbbd22094",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -263,7 +263,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.wine&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 43779,
+        "fileSize": 43779, "fileHash": "sha256-5cbd9e9b0229e97f3c0a931e02006dd93325c1d0766f866896e7c1edb3981e33",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -279,7 +279,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=amd.brstej.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 26326,
+        "fileSize": 26326, "fileHash": "sha256-114ac653dfd75461f146497bc828909618bc634c72e847e9cdcb10e092941584",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -295,7 +295,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cee.buzz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 43754,
+        "fileSize": 43754, "fileHash": "sha256-ad50c17f4acda76662f96fb1862f80aa5d81024c18075b5402cc879b768eb741",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -311,7 +311,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ciimaclub.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 17298,
+        "fileSize": 17298, "fileHash": "sha256-594227cf97919f4a7f1c5ebe55d3d7fc14c3182617dca2c4354e9615a6a611fd",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -327,7 +327,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=r.cimalight.co&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 25289,
+        "fileSize": 25289, "fileHash": "sha256-55b3285a43e8f30542e4f17edcaba68c7f69f01e19fdb82b3390b97129fc29a3",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -344,7 +344,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.cimatn.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 27974,
+        "fileSize": 27974, "fileHash": "sha256-430e87100c6dbe79b6fba1c6b9c9f9e2deef980be27e49bcb21f1886ff9472d9",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -360,7 +360,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cimawbas.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 13627,
+        "fileSize": 13627, "fileHash": "sha256-15290b1f2b725147d26506d1c362791f1a2ae39caa1d15f3e4a8dd238b70508d",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -376,7 +376,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=cinemana.shabakaty.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 47505,
+        "fileSize": 47505, "fileHash": "sha256-e20424e1c0eb9e8a3e12151675c885e425281bad0949e886788fce6ec450f06e",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -392,7 +392,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dima-toon.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 11920,
+        "fileSize": 11920, "fileHash": "sha256-cee3fdda3c17c3f734d803b7902b279e791411c08fddb2f6f8fa6b66e2a6d975",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -408,7 +408,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=qeseh.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 36831,
+        "fileSize": 36831, "fileHash": "sha256-e8834cc0171be8f448eed5f960e47fefba27a65cc0da2bd20be86817cdaacef6",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -424,7 +424,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=web31312x.faselhdx.bid&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 55050,
+        "fileSize": 55050, "fileHash": "sha256-1effcb33e476ca0820f58f7538d0a73d2cc14b6e7ef879a13e69941116259b4e",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -441,7 +441,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krmzi.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 30283,
+        "fileSize": 30283, "fileHash": "sha256-0d54b82eb8f7b1475f46f7cf11b13ad451cb03e39f6890331abaa0486e7cf8e2",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -457,7 +457,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=lodynet.watch&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 28163,
+        "fileSize": 28163, "fileHash": "sha256-72ded0f07792f0fc67d25c0d9bbadcd64eea8383eb48451ddb6d6c47164afc58",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -473,7 +473,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.oha.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 20815,
+        "fileSize": 20815, "fileHash": "sha256-51f9d1e63e2339da0045166838d921ac70b88ad17c82d853e1ce2a18d4430b5c",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -489,7 +489,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=fullmatchshows.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 28500,
+        "fileSize": 28500, "fileHash": "sha256-19a56c889da0a6ff0b0f3c946da5c5eba0fae6354b0e34677491c3b9e3fcfe7b",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -505,7 +505,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.syrlive.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 16789,
+        "fileSize": 16789, "fileHash": "sha256-48b5ed73732e99d33aa16f75d4e07e78521d0bbf1c6fb0a608bd9dca761dffa2",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -521,7 +521,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tuktukhd.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 24301,
+        "fileSize": 24301, "fileHash": "sha256-5bcb8cbed40cf876e00597420c8700ebcb981a4a68e377e3030e3c6765cc0804",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -538,7 +538,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=asia2tv.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 20298,
+        "fileSize": 20298, "fileHash": "sha256-2a452660e92a2ce6710130090e6656251131bd4fd5f06b48e1a2a40a924da9c8",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -554,7 +554,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.asia2tv.pw&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 14299,
+        "fileSize": 14299, "fileHash": "sha256-c91c62515d313f59b5392be996efab535600b1afd2c044807c808bd28082bb29",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -570,7 +570,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tuniflix.site&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 27187,
+        "fileSize": 27187, "fileHash": "sha256-f537da37df55e7221d672c806379e279d5b23d0d8b5d41ebbb782a1b7ec83cad",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -586,7 +586,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=famelack.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 14914,
+        "fileSize": 14914, "fileHash": "sha256-f787dc45b17b885a3b887e956fd9e98e87bbb5d0c855408ac61100c622433317",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -602,7 +602,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.viu.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 37679,
+        "fileSize": 37679, "fileHash": "sha256-e808cb1a474a08d6d6c3dd40726a4d9070b6c5dce245d942e7f123a2d5000549",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -618,7 +618,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.ac&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 27449,
+        "fileSize": 27449, "fileHash": "sha256-10c5655141e5d7c671e0f90fb822da2bf72706f40600fe3abe3433b5588d6a30",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -634,7 +634,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 147813,
+        "fileSize": 147813, "fileHash": "sha256-02cb7cc98eabcf292c5161596c0cc4328f6861f05998e4f04d18c2990955107f",
         "status": 1,
         "language": "ar",
         "authors": [
