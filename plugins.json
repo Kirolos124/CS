@@ -4,7 +4,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.gold&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kirolos124/CS",
-        "fileSize": 1174178, "fileHash": "sha256-e2c0cd119739567d6ed82a7085178fa40c43f2d66a24950890201baf17e23f77",
+        "fileSize": 1194260, "fileHash": "sha256-c83741a88ab6e09827d973ae0dd92c62e939084a711ac0a42037307a7051e77c",
         "status": 1,
         "language": "ar",
         "authors": [
@@ -16,9 +16,9 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 30,
+        "version": 31,
         "internalName": "UltimaBeta",
-        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta-30.cs3",
+        "url": "https://raw.githubusercontent.com/Kirolos124/CS/refs/heads/main/build/UltimaBeta-31.cs3",
         "name": "UltimaBeta"
     },
 {
